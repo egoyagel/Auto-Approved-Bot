@@ -15,15 +15,15 @@
     "env": {
         "API_ID": {
             "description": "Your APP ID From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",
-            "value": "22694866"
+            "value": "23776178"
         },
         "API_HASH": {
             "description": "Your API Hash From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",
-            "value": "86b2e26e4bc5126f19d9ffaa97c908c0"
+            "value": "b69598ab1d4021eb968d2db5b8bed30a"
         },
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
-            "value": "5402534265:AAECle1L2q1rUjRLgS3DwBK_A39H3OpZP4k"
+            "value": "6323849431:AAHX8uFm54ZkJcSD2hmnoLlxO1lvLaunP3A"
         },
         "CHAT_ID": {
             "description": "Working Group ID @MT_ID_Bot",
@@ -31,7 +31,7 @@
         },
         "APPROVED_WELCOME": {
             "description": "APPROVED_WELCOME On Or Off",
-            "value": "on"
+            "value": "off"
         },
         "APPROVED_WELCOME_TEXT": {
             "description": "APPROVED_WELCOME_TEXT : Welcome Text",
